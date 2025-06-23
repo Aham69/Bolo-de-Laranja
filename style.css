@@ -19,3 +19,9 @@ h2{
     font-size: 36;
     color: rgb(124, 124, 124);
 }
+.central{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+}
